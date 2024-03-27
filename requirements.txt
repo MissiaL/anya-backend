@@ -1,0 +1,7 @@
+fastapi
+peewee
+uvicorn[standard]
+sqlalchemy
+fastcrud
+ruff
+aiosqlite
